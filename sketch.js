@@ -3,6 +3,7 @@
 //https://www.google.com/search?q=mordecai&rlz=1C5CHFA_enUS708US708&espv=2&biw=1280&bih=689&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj3kYqT87TPAhXE1B4KHfgqAKIQ_AUIBigB#tbm=isch&q=mordecai+face&imgrc=xMAhj6bXvzf9rM%3A
 
 // I plan on using the same methods as in Exercise 2 to recreate Mordecai's face
+// the adjective is "mortified"
 
 function setup() {
   createCanvas(215*4, 225*4);
